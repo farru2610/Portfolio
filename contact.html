@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact</title>
+    <style>
+      body {
+        background-color: #f0f8ff;
+        font-family: "Times New Roman", Times, serif;
+        margin: 0;
+        padding: 20px;
+
+        background-image: url("cont.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+      .navbar {
+        background-color: #333;
+        color: white;
+        padding: 10px 20px;
+      }
+      .link {
+        color: white;
+      }
+      a:hover {
+        color: red;
+      }
+      h1 {
+        margin-bottom: 10px;
+      }
+
+      p {
+        margin-bottom: 20px;
+      }
+
+      .contact-methods {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      .contact-item h2 {
+        margin-bottom: 5px;
+      }
+
+      .contact-item p {
+        margin: 0;
+      }
+
+      .contact-item a {
+        color: #0756a0;
+        text-decoration: none;
+      }
+
+      .contact-item a:hover {
+        text-decoration: underline;
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Nav -->
+    <nav class="navbar">
+      <div class="nav">
+        <a href="index.html" class="link" style="padding: 10px">Home</a>
+        <a href="education.html" class="link" style="padding: 10px">Edcation</a>
+        <a href="project.html" class="link" style="padding: 10px"
+          >Skills & Project</a
+        >
+        <a href="contact.html" class="link" style="padding: 10px">Contact</a>
+      </div>
+    </nav>
+    <div class="container">
+      <h1>Contact Me</h1>
+      <p style="color: #0756a0">
+        I'd love to hear from you! Reach out to me through any of the methods
+        below.
+      </p>
+
+      <section class="contact-methods">
+        <div class="contact-item">
+          <h2>Address</h2>
+          <p style="color: #0756a0">
+            Hostel:17, IIT Bombay, Powai, Mumbai, 400076
+          </p>
+        </div>
+        <div class="contact-item">
+          <h2>Email</h2>
+          <p>
+            <a href="mailto:farhanjawaid786@gmail.com"
+              >farhanjawaid786@gmail.com</a
+            >
+          </p>
+        </div>
+
+        <div class="contact-item">
+          <h2>Phone</h2>
+          <p><a href="+911234567890">(+91) 1234567890</a></p>
+        </div>
+
+        <div class="contact-item">
+          <h2>Follow Me</h2>
+          <p>
+            <a href="https://facebook.com" target="_blank">Facebook</a> |
+            <a href="https://twitter.com" target="_blank">Twitter</a> |
+            <a href="https://instagram.com" target="_blank">Instagram</a> |
+            <a
+              href="https://www.linkedin.com/in/farhan-jawaid-aaa0321ab/"
+              target="_blank"
+              >LinkedIn</a
+            >
+          </p>
+        </div>
+      </section>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2024 Farhan Jawaid. All rights reserved.</p>
+    </div>
+  </body>
+</html>
