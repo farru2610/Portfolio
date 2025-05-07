@@ -8,7 +8,7 @@ You can view the live website here: **[Live Demo Link](https://www.cse.iitb.ac.i
 
 - **Responsive Design**: The website adapts to different screen sizes, ensuring a smooth experience on desktops, tablets, and mobile devices.
 - **Dynamic Animations**: GSAP is used for smooth transitions and animations, enhancing the user experience.
-- **Interactive Sections**: Different sections like "About Me", "Skills", "Projects", and "Contact" are available to showcase **[Friend's Name]**'s work and background.
+- **Interactive Sections**: Different sections like "About Me", "Skills", "Projects", and "Contact" are available to showcase works and background.
 - **Contact Form**: A functional contact form is integrated for easy communication.
 - **Smooth Scroll**: Smooth scrolling is implemented to improve navigation within the page.
 
@@ -18,7 +18,6 @@ You can view the live website here: **[Live Demo Link](https://www.cse.iitb.ac.i
 - **CSS3**: For styling, layout, and making the website responsive.
 - **JavaScript**: For adding interactivity and animations.
 - **GSAP**: For advanced animations and transitions.
-- **Live Hosting**: The website is hosted live for public access. (Platform used: **[Netlify, GitHub Pages, etc.]**)
 
 ## Setup Instructions
 
@@ -53,8 +52,3 @@ GSAP is used to create engaging animations throughout the site. Some key animati
 - **Hero Section Animation**: The elements of the hero section (like text, images) fade in with smooth transitions.
 - **Scroll Animations**: Sections like "Projects", "About", and "Skills" animate into view as you scroll down.
 - **Button Hover Effects**: Interactive buttons with subtle hover animations.
-
-## DEVELOPED BY MD AFFAN ASGHAR
-- Computer Science Engineer
-- Email: affanasgar8@gmail.com
-- @mr_affan15
