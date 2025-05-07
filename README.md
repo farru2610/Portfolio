@@ -1,7 +1,5 @@
 # Portfolio Website
 
-This is a responsive portfolio website built for **Farhan Jawaid** using **HTML**, **CSS**, **JavaScript**, and **GSAP (GreenSock Animation Platform)**. The website showcases the portfolio, skills, experience, and projects. It is designed to be visually appealing, fully responsive, and interactive, providing a seamless user experience across different devices.
-
 ## Live Demo
 
 You can view the live website here: **[Live Demo Link](https://www.cse.iitb.ac.in/~farhanjawaid/)**
